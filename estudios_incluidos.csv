@@ -1,0 +1,59 @@
+﻿ID,Clave BibTeX,Titulo,Anio,DOI
+S01,S01_Othman_2025,Review on climate change impacts on hydropower potentials: mitigation and adaptation strategies,2025,10.1016/j.egyr.2025.11.064
+S02,S02_Afzal_2020,State-of-the-art review on power system resilience and assessment techniques,2020,10.1049/iet-gtd.2020.0531
+S03,S03_Brown_2014,Implications of sea-level rise and extreme events around Europe: A review of coastal energy infrastructure,2014,10.1007/s10584-013-0996-9
+S04,S04_Yang_2018,Quantitative Resilience Assessment for Power Transmission Systems under Typhoon Weather,2018,10.1109/ACCESS.2018.2858860
+S05,S05_Tufail_2026,Assessing the vulnerability of U.S. energy infrastructure to dual source flood hazards: A spatial and population exposure analysis,2026,10.1016/j.scitotenv.2026.181381
+S06,S06_Mahzarnia_2020,A Review of the Measures to Enhance Power Systems Resilience,2020,10.1109/JSYST.2020.2965993
+S07,S07_Sang_2020,An Integrated Preventive Operation Framework for Power Systems during Hurricanes,2020,10.1109/JSYST.2019.2947672
+S08,S08_Moftakhari_2019,Increasing exposure of energy infrastructure to compound hazards: Cascading wildfires and extreme rainfall,2019,10.1088/1748-9326/ab41a6
+S09,S09_Yin_2023,Improving the resilience of power grids against typhoons with data-driven spatial distributionally robust optimization,2023,10.1111/risa.13995
+S10,S10_Rong_2023,Resilience-Oriented Restoration Strategy by Offshore Wind Power Considering Risk,2023,10.17775/CSEEJPES.2022.07710
+S11,S11_Espinoza_2016,Multi-phase assessment and adaptation of power systems resilience to natural hazards,2016,10.1016/j.epsr.2016.03.019
+S12,S12_Jasiunas_2021,Energy system resilience – A review,2021,10.1016/j.rser.2021.111476
+S13,S13_Ansari_2024,Improving flood and drought management in transboundary Upper Jhelum Basin-South Asia,2024,10.1016/j.scitotenv.2024.174044
+S14,S14_Kasimalla_2024,An Evaluation of Sustainable Power System Resilience in the Face of Severe Weather Conditions and Climate Changes: A Comprehensive Review of Current Advances,2024,10.3390/su16073047
+S15,S15_PortugalPereira_2024,Exposure of future nuclear energy infrastructure to climate change hazards: A review assessment,2024,10.1016/j.esr.2024.101365
+S16,S16_Lee_2024,Quantifying the Power System Resilience of the US Power Grid Through Weather and Power Outage Data Mapping,2024,10.1109/ACCESS.2023.3347129
+S17,S17_Panteli_2017,"Power System Resilience to Extreme Weather: Fragility Modeling, Probabilistic Impact Assessment, and Adaptation Measures",2017,10.1109/TPWRS.2016.2641463
+S18,S18_Barnett_2025,Powering through the storm: estimating electric grid resilience using a power system cyclone impact model,2025,10.1088/2634-4505/ae17e8
+S19,S19_Panteli_2016,Boosting the Power Grid Resilience to Extreme Weather Events Using Defensive Islanding,2016,10.1109/TSG.2016.2535228
+S20,S20_Dugan_2021,Application of mobile energy storage for enhancing power grid resilience: a review,2021,10.3390/en14206476
+S21,S21_Movahednia_2022,Power Grid Resilience Enhancement via Protecting Electrical Substations against Flood Hazards: A Stochastic Framework,2022,10.1109/TII.2021.3100079
+S22,S22_Li_2019,Exploiting network topology optimization and demand side management to improve bulk power system resilience under windstorms,2019,10.1016/j.epsr.2019.02.014
+S23,S23_Shen_2026,Scenario dynamics-informed enhancement of power grid resilience to typhoons,2026,10.1016/j.ress.2026.112680
+S24,S24_Zhang_2019,Economic and sustainability promises of wind energy considering the impacts of climate change and vulnerabilities to extreme conditions,2019,10.1016/j.tej.2019.05.013
+S25,S25_Liu_2023,Global maximum flow based time-domain simulation method for evaluating power system resilience,2023,10.1016/j.egyr.2023.04.211
+S26,S26_Song_2022,Resilient power grid for smart city,2022,10.23919/IEN.2022.0043
+S27,S27_Lee_2024,Resilience Oriented Unit Commitment Considering Transportable Energy System under Typhoon Impact,2024,10.1109/TIA.2023.3348070
+S28,S28_Yang_2023,Optimal Resource Allocation to Enhance Power Grid Resilience Against Hurricanes,2023,10.1109/TPWRS.2022.3193133
+S29,S29_Daeli_2023,Power Grid Infrastructural Resilience against Extreme Events,2023,10.3390/en16010064
+S30,S30_Shuai_2024,Modeling the impact of extreme summer drought on conventional and renewable generation capacity: Methods and a case study on the Eastern U.S. power system,2024,10.1016/j.apenergy.2024.122977
+S31,S31_Lin_2024,"Review of Power System Resilience Concept, Assessment, and Enhancement Measures",2024,10.3390/app14041428
+S32,S32_Anel_2024,Extreme Weather Events and the Energy Sector in 2021,2024,10.1175/WCAS-D-23-0115.1
+S33,S33_Wu_2022,The Effect of Decision Analysis on Power System Resilience and Economic Value during a Severe Weather Event,2022,10.1109/TIA.2022.3145753
+S34,S34_Matko_2017,Reducing risks to electric power infrastructure due to extreme weather events by means of spatial planning: Case studies from Slovenia,2017,10.1016/j.jup.2016.10.007
+S35,S35_DiBella_2025,Mitigation strategies can alleviate power system vulnerability to climate change and extreme weather: a case study on the Italian grid,2025,10.1088/2634-4505/ada308
+S36,S36_Alhazmi_2025,Resilient energy transition in wildfire-prone regions: A multi-stage investment optimization,2025,10.1016/j.ijepes.2025.111060
+S37,S37_Tofigh_2025,Bibliometric Analysis of Extreme Weather Research: Patterns and Partnerships in Power Grid Resilience Studies,2025,10.3390/su17125658
+S38,S38_Ali_2023,A Comparison of Grid-Connected Local Hospital Loads with Typical Backup Systems and Renewable Energy System Based Ad Hoc Microgrids for Enhancing the Resilience of the System,2023,10.3390/en16041918
+S39,S39_Dehghani_2023,Age-dependent resilience assessment and quantification of distribution systems under extreme weather events,2023,10.1016/j.ijepes.2023.109089
+S40,S40_Panteli_2017,Power Systems Resilience Assessment: Hardening and Smart Operational Enhancement Strategies,2017,10.1109/JPROC.2017.2691357
+S41,S41_Taylor_2023,Community power outage prediction modeling for the Eastern United States,2023,10.1016/j.egyr.2023.10.073
+S42,S42_Trakas_2022,Strengthening Transmission System Resilience Against Extreme Weather Events by Undergrounding Selected Lines,2022,10.1109/TPWRS.2021.3128020
+S43,S43_Abdelmalak_2022,Enhancing Power System Operational Resilience Against Wildfires,2022,10.1109/TIA.2022.3145765
+S44,S44_Ge_2022,A resilience-oriented centralised-to-decentralised framework for networked microgrids management,2022,10.1016/j.apenergy.2021.118234
+S45,S45_Souto_2022,"Power system resilience to floods: Modeling, impact assessment, and mid-term mitigation strategies",2022,10.1016/j.ijepes.2021.107545
+S46,S46_Perera_2023,Optimal design of microgrids to improve wildfire resilience for vulnerable communities at the wildland-urban interface,2023,10.1016/j.apenergy.2023.120744
+S47,S47_Liu_2026,Resilient preventive strategies for offshore wind-integrated power systems against typhoons under decision-dependent uncertainty,2026,10.1016/j.apenergy.2026.127608
+S48,S48_Li_2026,A probabilistic framework for assessing and enhancing the resilience of power systems to typhoon hazards,2026,10.1016/j.ress.2025.111607
+S49,S49_Bayani_2023,Resilient Expansion Planning of Electricity Grid under Prolonged Wildfire Risk,2023,10.1109/TSG.2023.3241103
+S50,S50_Ali_2025,Microgrids for energy access in remote and islanded communities under natural disasters – Context of Lombok Island Indonesia,2025,10.1016/j.ref.2025.100705
+S51,S51_Park_2023,Is critical infrastructure safe from wildfires? A case study of wildland-industrial and -urban interface areas in South Korea,2023,10.1016/j.ijdrr.2023.103849
+S52,S52_MiraeeAshtiani_2022,Performance Degradation of Levee-Protected Electric Power Network Due to Flooding in a Changing Climate,2022,10.1109/TPWRS.2022.3146229
+S53,S53_Arab_2021,Three Lines of Defense for Wildfire Risk Management in Electric Power Grids: A Review,2021,10.1109/ACCESS.2021.3074477
+S54,S54_Garg_2015,Energy infrastructure in India: Profile and risks under climate change,2015,10.1016/j.enpol.2014.12.007
+S55,S55_Mensah_2016,Efficient Resilience Assessment Framework for Electric Power Systems Affected by Hurricane Events,2016,10.1061/(ASCE)ST.1943-541X.0001423
+S56,S56_Chen_2020,Toward Bulk Power System Resilience: Approaches for Regional Transmission Operators,2020,10.1109/MPE.2020.2985437
+S57,S57_Shuai_2025,Hydroclimate-coupled framework for assessing power system resilience under summer drought and climate change,2025,10.1016/j.rser.2025.115397
+S58,S58_Xue_2020,Impact of transmission tower-line interaction to the bulk power system during hurricane,2020,10.1016/j.ress.2020.107079
